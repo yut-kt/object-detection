@@ -1,0 +1,8 @@
+dlib/
+train/*
+/env
+
+.DS_Store
+.idea/
+
+*.png
